@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+%:
+	dh $@ --with python2 --no-guessing-deps
+
+override_dh_clean:
+	dh_clean
+  
