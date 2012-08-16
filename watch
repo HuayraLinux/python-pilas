@@ -1,2 +1,4 @@
 version=3
-https://bitbucket.org/hugoruscitti/pilas/get/d6ee19c7643b.tar.gz
+#TODO: hay que hablar con la gente de pilas para que tagge las versiones y este archivo watch funcione
+http://githubredir.debian.net/github/hugoruscitti/pilas/(.*).tar.gz
+
