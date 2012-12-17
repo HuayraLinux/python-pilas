@@ -1,0 +1,3 @@
+debian/pilas-0.74.pdf /usr/share/pilas
+./doc/source/images/pilas-icono.png /usr/share/pixmaps/
+debian/pilas.desktop /usr/share/applications
