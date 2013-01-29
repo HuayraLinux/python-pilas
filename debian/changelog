@@ -1,3 +1,9 @@
+python-pilas (0.75) testing; urgency=low
+
+  * v0.75.
+
+ -- Héctor Sanchez <hsanchez@pressenter.com.ar>  Tue, 29 Jan 2013 16:40:52 -0300
+
 python-pilas (0.74-1) testing; urgency=low
 
   * v0.74.
