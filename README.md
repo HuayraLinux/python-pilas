@@ -13,5 +13,6 @@ Este paquete contiene Pilas Engine para Huayra GNU/Linux.
 
 1. uscan # para descargar la version más reciente de pilas
 2. Copiar el nuevo manual a debian/manual.pdf
-3. dch -i # para actualizar el changelog
+3. dch -i # para actualizar el changelog, asegurarse que la versión del paquete coincida con la de pilas
 4. pdebuild # generar el paquete
+5. Si publicas la version generada, crea un tag en este repo :)
