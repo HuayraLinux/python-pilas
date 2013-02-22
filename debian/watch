@@ -1,0 +1,2 @@
+version=3
+https://github.com/hugoruscitti/pilas/tags .*/(\d[\d\.]+)\.tar\.gz
