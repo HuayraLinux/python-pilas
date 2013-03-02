@@ -4,6 +4,5 @@ Comment=Motor de videojuegos
 Exec=/usr/bin/pilas
 Terminal=false
 Type=Application
-Icon=help-browser
 Categories=Development;
 Icon=/usr/share/pixmaps/pilas-icono.png

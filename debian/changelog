@@ -1,3 +1,9 @@
+python-pilas (0.77-2) testing; urgency=low
+
+  * Corrección icono en archivo .desktop
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Sat, 02 Mar 2013 02:08:12 -0300
+
 python-pilas (0.77-1) testing; urgency=low
 
   * Nueva version 0.77.
