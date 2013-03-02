@@ -5,3 +5,11 @@
 override_dh_clean:
 	dh_clean
 	rm -fr *.egg-info/
+
+override_dh_auto_test:
+	
+
+override_dh_install:
+	cd doc; make latexpdf
+	mv doc/build/latex/Pilasengine.pdf doc/build/latex/manual.pdf
+	dh_install

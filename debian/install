@@ -1,3 +1,4 @@
-debian/manual.pdf /usr/share/python-pilas
-./doc/source/images/pilas-icono.png /usr/share/pixmaps/
-debian/pilas.desktop /usr/share/applications
+doc/build/latex/manual.pdf /usr/share/python-pilas
+./doc/source/images/pilas-icono.png /usr/share/pixmaps
+debian/python-pilas.desktop /usr/share/applications
+

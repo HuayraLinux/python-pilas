@@ -3,7 +3,9 @@ Maintainer: Miguel Angel Garcia <miguel.garcia@gmail.com>
 Section: python
 Priority: optional
 Standards-Version: 3.9.2
-Build-Depends: python-all, debhelper (>= 8), python-pygame, python-qt4, python-qt4-gl, python-box2d, python-setuptools
+Build-Depends: python-all, debhelper (>= 8), python-pygame, python-qt4,
+ python-qt4-gl, python-box2d, python-setuptools, python-sphinx, texlive,
+ texlive-latex-extra
 
 Package: python-pilas
 Architecture: i386

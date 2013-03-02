@@ -1,3 +1,10 @@
+python-pilas (0.77-1) testing; urgency=low
+
+  * Nueva version 0.77.
+  * Automatización de generación de manual PDF al generar el paquete.
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 01 Mar 2013 19:48:29 -0300
+
 python-pilas (0.75) testing; urgency=low
 
   * v0.75.
