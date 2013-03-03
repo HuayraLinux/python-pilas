@@ -1,15 +1,16 @@
 #!/usr/bin/make -f
 %:
-	dh $@ --with python2 --no-guessing-deps
-
-override_dh_clean:
-	dh_clean
-	rm -fr *.egg-info/
+	dh $@ --with python2
 
 override_dh_auto_test:
 	
+override_dh_auto_build:
+	mv Makefile ~Makefile  # Ignorar Makefile y usar setup.py
+	dh_auto_build
+	mv ~Makefile Makefile
 
 override_dh_install:
-	cd doc; make latexpdf
+	cd doc; make latexpdf  # Generar manual
 	mv doc/build/latex/Pilasengine.pdf doc/build/latex/manual.pdf
+	chmod 644 `find . | grep .png`
 	dh_install
