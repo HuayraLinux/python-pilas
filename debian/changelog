@@ -1,3 +1,9 @@
+python-pilas (0.77.1-1) testing; urgency=low
+
+  * Version 0.77.1 para solucionar problema con checksums al subir al repo apt de Huayra
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Sun, 03 Mar 2013 22:01:57 -0300
+
 python-pilas (0.77-2) testing; urgency=low
 
   * Corrección icono en archivo .desktop
