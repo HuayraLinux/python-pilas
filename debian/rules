@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 %:
-	dh $@ --with python2
+	dh $@ --with python2 --buildsystem=python_distutils
 
 override_dh_auto_test:
 	
@@ -14,3 +14,6 @@ override_dh_install:
 	mv doc/build/latex/Pilasengine.pdf doc/build/latex/manual.pdf
 	chmod 644 `find . | grep .png`
 	dh_install
+
+override_dh_auto_clean:
+
