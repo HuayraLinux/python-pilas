@@ -1,3 +1,15 @@
+python-pilas (0.82-1) testing; urgency=low
+
+  * Nueva version: corrección encoding de documentación
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 12 Jul 2013 17:09:56 -0300
+
+python-pilas (0.80-1) testing; urgency=low
+
+  * Version 0.80
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Tue, 02 Jul 2013 14:09:54 -0300
+
 python-pilas (0.77.1-2) testing; urgency=low
 
   * Correcciones en el empaquetado
