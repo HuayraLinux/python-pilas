@@ -23,7 +23,8 @@ Este repositorio contiene los archivos necesarios para construir un el paquete d
 6. cd ../python-pilas
 7. dch -i # para actualizar el changelog, asegurarse que la versión del paquete coincida con la de pilas
 8. pdebuild # generar el paquete
-9. Si publicas la version generada, crea un tag en este repo :)
 
+
+Si publicas la version generada, crea un tag en este repo :)
 
 NOTA: Mike está armando un script para automatizar los pasos.
