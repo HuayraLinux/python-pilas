@@ -10,10 +10,7 @@ Build-Depends: debhelper (>= 8),
  python-pygame,
  python-qt4,
  python-qt4-gl,
- python-setuptools,
- python-sphinx,
- texlive,
- texlive-latex-extra
+ python-setuptools
 
 Package: python-pilas
 Architecture: i386

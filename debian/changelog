@@ -1,3 +1,9 @@
+python-pilas (0.83-1) unstable; urgency=low
+
+  * Actualizando la nueva versión
+
+ -- Alumno <alumno@huayra>  Wed, 13 Nov 2013 16:00:34 -0300
+
 python-pilas (0.82-1) testing; urgency=low
 
   * Nueva version: corrección encoding de documentación
