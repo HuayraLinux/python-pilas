@@ -1,3 +1,10 @@
+python-pilas (0.83-3) unstable; urgency=low
+
+  * actualizando metadata de arquitectura, de i386 a todas. 
+  * arreglo menor en el builder.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Dec 2013 14:43:48 -0300
+
 python-pilas (0.83-1) unstable; urgency=low
 
   * Actualizando la nueva versión
