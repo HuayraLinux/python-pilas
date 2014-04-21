@@ -1,3 +1,64 @@
+python-pilas (0.84.3) unstable; urgency=low
+
+  * Arreglo menor.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 21 Apr 2014 20:18:22 +0200
+
+python-pilas (0.84.2-3) unstable; urgency=low
+
+  * Quitando el link a tutoriales.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 21 Apr 2014 20:01:26 +0200
+
+python-pilas (0.84.2-2) unstable; urgency=low
+
+  * Agregando pilas al menú de huayra.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 20 Mar 2014 21:32:53 +0100
+
+python-pilas (0.84.2-1) unstable; urgency=low
+
+  * Actualizando las rutas para acceder a los tutoriales.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 21:04:48 +0100
+
+python-pilas (0.84.1-6) unstable; urgency=low
+
+  * Versión de prueba.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 20:38:14 +0100
+
+python-pilas (0.84-4) unstable; urgency=low
+
+  * Actualización de prueba.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 20:24:27 +0100
+
+python-pilas (0.84-3) unstable; urgency=low
+
+  * Versión de prueba. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 18:51:14 +0100
+
+python-pilas (0.84-2) unstable; urgency=low
+
+  * Generando nuevamente el paquete de prueba.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 17:37:19 +0100
+
+python-pilas (0.84-1) unstable; urgency=low
+
+  * Build de ejemplo.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 16:59:38 +0100
+
+python-pilas (0.84) unstable; urgency=low
+
+  * Agregando tutoriales.
+  * Arreglos en el interprete.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 13 Feb 2014 16:30:16 +0100
+
 python-pilas (0.83-3) unstable; urgency=low
 
   * actualizando metadata de arquitectura, de i386 a todas. 

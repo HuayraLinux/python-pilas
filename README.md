@@ -13,18 +13,40 @@ Este repositorio contiene los archivos necesarios para construir un el paquete d
 
 ## Para generar el paquete: ##
 
-0. export VERSION="0.83"
-1. cd
-1. git clone http://github.com/hugoruscitti/pilas.git
-2. cd pilas
-3. git checkout $VERSION
-4. git submodule update --init
-5. tar cvzf ../python-pilas_$VERSION.orig.tar.gz *
-6. cd ../python-pilas
-7. dch -i # para actualizar el changelog, asegurarse que la versión del paquete coincida con la de pilas
-8. pdebuild # generar el paquete
+Tenes que estar dentro del directorio python-pilas, y de ser
+posible dentro de otro directorio temporal.
+
+La idea de las instrucciones es que generen un directorio
+llamado pilas con todos los archivos de pilas.
+
+La estructura de archivos recomandada es:
+
+    tmp/
+     |
+     |
+     --- pilas/ (se genera automaticamente)   
+     |
+     --- python-pilas/ (este directorio)
+
+Comandos:
+
+    export VERSION="0.84.3"
+    cd ..
+    git clone http://github.com/hugoruscitti/pilas.git
+    cd pilas
+    git checkout $VERSION
+    git submodule update --init
+    tar cvzf ../python-pilas_$VERSION.orig.tar.gz *
+
+    cd ../python-pilas
+    dch -i     # (ver nota al pie *1)
+    pdebuild
 
 
+Notas:
+
+1 - En el changelog tiene que coincidir con la versión exportada
+en la variable VERSION
 Si publicas la version generada, crea un tag en este repo :)
 
 NOTA: Mike está armando un script para automatizar los pasos.
