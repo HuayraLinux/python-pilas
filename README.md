@@ -1,6 +1,12 @@
 python-pilas
 ============ 
 
+IMPORTANTE: estos pasos ya no se utilizan para empaquetar pilas ... ver el repositorio hugoruscitti/pilas
+=========================================================================================================
+
+
+
+
 Empaquetado deb de Pilas Engine para Huayra GNU/Linux
 
 Pilas es un motor para realizar videojuegos de manera rápida y sencilla. 
