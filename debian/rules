@@ -10,6 +10,7 @@ override_dh_auto_build:
 	mv ~Makefile Makefile
 
 override_dh_install:
+	cd pilas ; ln -s ../data
 	chmod 644 `find . | grep .png`
 	dh_install
 

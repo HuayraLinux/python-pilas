@@ -1,134 +1,120 @@
-python-pilas (0.84.4) unstable; urgency=low
+python-pilas (0.90.28-4) unstable; urgency=low
 
-  * Reparacion del ejemplo arrastrar y soltar.
+  * Agrego listar_actores() a pilasengine
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 15 Oct 2014 15:19:39 +0200
+ -- Mauro <mauro@sdf.org>  Mon, 09 Mar 2015 15:49:10 -0300
 
-python-pilas (0.84.3) unstable; urgency=low
+python-pilas (0.90.27-6) unstable; urgency=low
+
+  * Arregla iconos del menú. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Mar 2015 15:38:13 +0100
+
+python-pilas (0.90.27-5) unstable; urgency=low
+
+  * Actualizando iconos del menú. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Mar 2015 14:58:13 +0100
+
+python-pilas (0.90.27-4) unstable; urgency=low
+
+  * Agrega archivo desktop faltante para los menu.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 04 Mar 2015 21:34:45 +0100
+
+python-pilas (0.90.27-3) unstable; urgency=low
+
+  * Cambiando el nombre del archivo source.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 04 Mar 2015 21:34:45 +0100
+
+pilasengine (0.90.27-2) unstable; urgency=low
+
+  * cambiando el nombre del paquete.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Mar 2015 21:13:42 +0100
+
+pilasengine (0.90.27-1) unstable; urgency=low
 
   * Arreglo menor.
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 21 Apr 2014 20:18:22 +0200
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Mar 2015 20:39:44 +0100
 
-python-pilas (0.84.2-3) unstable; urgency=low
+pilasengine (0.90.27) unstable; urgency=low
 
-  * Quitando el link a tutoriales.
+  * Actualizando paquete.
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 21 Apr 2014 20:01:26 +0200
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Mar 2015 19:40:08 +0100
 
-python-pilas (0.84.2-2) unstable; urgency=low
+pilasengine (0.90.25) unstable; urgency=low
 
-  * Agregando pilas al menú de huayra.
+  * Actualizando paquete.
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 20 Mar 2014 21:32:53 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 18 Feb 2015 16:50:21 +0100
 
-python-pilas (0.84.2-1) unstable; urgency=low
+pilasengine (0.90.15) unstable; urgency=low
 
-  * Actualizando las rutas para acceder a los tutoriales.
+  * Actualizando a la version 0.90.15
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 21:04:48 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 26 Nov 2014 18:58:22 +0100
 
-python-pilas (0.84.1-6) unstable; urgency=low
+pilasengine (0.90.13) unstable; urgency=low
 
-  * Versión de prueba.
+  * Actualizando a la version 0.90.13
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 20:38:14 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 05 Nov 2014 16:12:41 +0100
 
-python-pilas (0.84-4) unstable; urgency=low
+pilasengine (0.90.12) unstable; urgency=low
 
-  * Actualización de prueba.
+  * Actualizando a la version 0.90.12
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 20:24:27 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 31 Oct 2014 20:19:13 +0100
 
-python-pilas (0.84-3) unstable; urgency=low
+pilasengine (0.90.10) unstable; urgency=low
 
-  * Versión de prueba. 
+  * Actualizando a la version 0.90.10
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 18:51:14 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 27 Oct 2014 16:13:43 +0100
 
-python-pilas (0.84-2) unstable; urgency=low
+pilasengine (0.90.8) unstable; urgency=low
 
-  * Generando nuevamente el paquete de prueba.
+  * Actualizando al tag 0.90.8
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 17:37:19 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 15 Oct 2014 15:13:40 +0200
 
-python-pilas (0.84-1) unstable; urgency=low
+pilasengine (0.90.5-3) unstable; urgency=low
 
-  * Build de ejemplo.
+  * Actualizando a la version 0.90.3 de pilas.
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 14 Feb 2014 16:59:38 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 01 Sep 2014 19:01:29 +0200
 
-python-pilas (0.84) unstable; urgency=low
+pilasengine (0.90.5) unstable; urgency=low
 
-  * Agregando tutoriales.
-  * Arreglos en el interprete.
+  * Actualizando paquete .deb
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 13 Feb 2014 16:30:16 +0100
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 21 Aug 2014 20:09:09 +0200
 
-python-pilas (0.83-3) unstable; urgency=low
+pilasengine (0.90.4) unstable; urgency=low
 
-  * actualizando metadata de arquitectura, de i386 a todas. 
-  * arreglo menor en el builder.
+  * Agregando mejoras del editor. 
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Dec 2013 14:43:48 -0300
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 01 Aug 2014 17:18:29 +0200
 
-python-pilas (0.83-1) unstable; urgency=low
+pilasengine (0.90.3) unstable; urgency=low
 
-  * Actualizando la nueva versión
+  * Copiando archivos data.
 
- -- Alumno <alumno@huayra>  Wed, 13 Nov 2013 16:00:34 -0300
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 26 Jun 2014 21:19:34 +0200
 
-python-pilas (0.82-1) testing; urgency=low
+pilasengine (0.90.2) unstable; urgency=low
 
-  * Nueva version: corrección encoding de documentación
+  * Cambiando la ruta de instalación.
+  * Arreglo menor en el nombre del archivo de ícono.
 
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 12 Jul 2013 17:09:56 -0300
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 26 Jun 2014 17:12:44 +0200
 
-python-pilas (0.80-1) testing; urgency=low
+pilasengine (0.90.0) unstable; urgency=low
 
-  * Version 0.80
+  * empaquetado inicial. 
 
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Tue, 02 Jul 2013 14:09:54 -0300
-
-python-pilas (0.77.1-2) testing; urgency=low
-
-  * Correcciones en el empaquetado
-
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Thu, 07 Mar 2013 13:30:10 -0300
-
-python-pilas (0.77.1-1) testing; urgency=low
-
-  * Version 0.77.1 para solucionar problema con checksums al subir al repo apt de Huayra
-
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Sun, 03 Mar 2013 22:01:57 -0300
-
-python-pilas (0.77-2) testing; urgency=low
-
-  * Corrección icono en archivo .desktop
-
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Sat, 02 Mar 2013 02:08:12 -0300
-
-python-pilas (0.77-1) testing; urgency=low
-
-  * Nueva version 0.77.
-  * Automatización de generación de manual PDF al generar el paquete.
-
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 01 Mar 2013 19:48:29 -0300
-
-python-pilas (0.75) testing; urgency=low
-
-  * v0.75.
-
- -- Héctor Sanchez <hsanchez@pressenter.com.ar>  Tue, 29 Jan 2013 16:40:52 -0300
-
-python-pilas (0.74-1) testing; urgency=low
-
-  * v0.74.
-
- -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Tue, 27 Nov 2012 17:40:38 -0300
-
-python-pilas (0.68-1) wizy; urgency=low
-
-  * Initial release.
-
- -- Miguel Garcia <miguel.garcia@gmail.com>  Tue, 07 Aug 2012 17:22:38 -0300
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 26 Jun 2014 16:48:01 +0200

@@ -5,11 +5,6 @@ Priority: optional
 Standards-Version: 3.9.3
 X-Python-Version: >= 2.7
 Build-Depends: debhelper (>= 8),
- python-all,
- python-box2d,
- python-pygame,
- python-qt4,
- python-qt4-gl,
  python-setuptools
 
 Package: python-pilas

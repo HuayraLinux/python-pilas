@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Pilas Engine
 Comment=Motor de videojuegos
-Exec=/usr/bin/pilas
+Exec=/usr/bin/pilasengine
 Terminal=false
 Type=Application
 Categories=GNOME;GTK;Huayra;Development;
-Icon=/usr/share/pixmaps/pilas-icono.png
+Icon=/usr/share/pixmaps/pilasengine-icono.png
