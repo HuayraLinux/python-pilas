@@ -1,7 +1,7 @@
-python-pilas (0.90.28-4) UNRELEASED; urgency=medium
+python-pilas (0.90.28-4) unstable; urgency=medium
 
-  * Non-maintainer upload.
-  * 
+  * empaqutado separado source/upstream
+  * correccion de symlink de directorio _data_
 
  -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 11 Mar 2015 23:39:39 -0300
 
