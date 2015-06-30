@@ -4,4 +4,5 @@ data/* usr/lib/python2.7/dist-packages/data
 bin/pilasengine usr/bin/
 bin/pilas usr/bin/
 data/pilasengine-icono.png /usr/share/pixmaps
+data/pilasengine-icono.png /usr/share/icons/hicolor/192x192/apps/
 debian/python-pilas.desktop /usr/share/applications/
