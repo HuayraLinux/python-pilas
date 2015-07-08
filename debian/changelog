@@ -1,3 +1,9 @@
+python-pilas (0.90.39-1) unstable; urgency=low
+
+  * Actualizando a la versión 0.90.39
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 08 Jul 2015 16:37:30 +0200
+
 python-pilas (0.90.38-2) unstable; urgency=medium
 
   * Corrección de .desktop para que tome el theme de iconos.
