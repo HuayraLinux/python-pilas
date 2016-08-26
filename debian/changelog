@@ -1,3 +1,12 @@
+python-pilas (1.4.8-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.4.8.
+  * Crear una función para forzar la inicialización del audio.
+  * Agregando la posibilidad de detener un sonido o música gradualmente.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 26 Aug 2016 10:40:30 -0300
+
+
 python-pilas (1.4.7-1) unstable; urgency=low
 
   * Actualizando a la versión 1.4.7.
