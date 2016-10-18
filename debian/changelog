@@ -1,3 +1,10 @@
+python-pilas (1.4.9-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.4.9.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Tue, 18 Oct 2016 17:44:50 -0300
+
+
 python-pilas (1.4.8-5) unstable; urgency=low
 
   * Prueba.
