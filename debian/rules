@@ -9,3 +9,5 @@ override_dh_fixperms:
 	chmod 644 `find . | grep .png`
 	dh_fixperms
 
+get-orig-source:
+	uscan --verbose --download-current-version
